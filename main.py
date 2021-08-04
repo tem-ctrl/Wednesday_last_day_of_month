@@ -16,6 +16,6 @@ for year in range(2001, 2101):
            
 Percent_Wed = (Wed_end/Weds)*100
 
-print(f'Number of Wednasdays ending months : {Wed_end}')
+print(f'Number of Wednesdays ending months : {Wed_end}')
 print(f'Total number of Wednesdays in the 21st Century : {Weds}')
 print(f'Percentage Wednesdays ending months : {Percent_Wed:.2f}')
