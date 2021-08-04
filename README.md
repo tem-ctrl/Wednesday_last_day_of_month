@@ -5,6 +5,5 @@
 - Calculate the percentage.
 
 ## Packages needed
-1. numpy
-2. datetime
-3. calendar
+1. datetime
+2. calendar
